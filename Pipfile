@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torchvision = "*"
+torch = "*"
+diffusers = "*"
+transformers = "*"
+
+[dev-packages]
+jupyterlab = "*"
+diffusers = {extras = ["training"], version = "*"}
+accelerate = "*"
+datasets = "*"
+
+[requires]
+python_version = "3.10"
