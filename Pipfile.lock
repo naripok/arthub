@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8dace7d6b50b7a7716bfe069a64ab09c91bb39bbcffe9855d37006fe7693ccba"
+            "sha256": "b1169c8c28beda911efbfda07de6f4ad7678a9445a9940ea5d4cb9c45ae2ef3e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -471,6 +471,14 @@
             "markers": "python_version >= '3.7'",
             "version": "==67.4.0"
         },
+        "timm": {
+            "hashes": [
+                "sha256:3dfa19b82afa707acc0c2392a84c0e549dd9ea626c285fb2e8d9e4073b58dbd1",
+                "sha256:8f1747121598e06a1ea2d00df16d332cc284cdd4596bdc136b490a2122d3aa91"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==0.6.12"
+        },
         "tokenizers": {
             "hashes": [
                 "sha256:0901a5c6538d2d2dc752c6b4bde7dab170fddce559ec75662cfad03b3187c8f6",
@@ -591,6 +599,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==4.5.0"
+        },
+        "uform": {
+            "hashes": [
+                "sha256:3d11b96ff8ad3ac9988f0499969f9599d7074604144d693b60e714ad7e9fb0fb",
+                "sha256:70dcad42ee161f779d68b7678ffe48b808adf7c6459f522761820eaabff61d75"
+            ],
+            "index": "pypi",
+            "version": "==0.0.5"
         },
         "urllib3": {
             "hashes": [
@@ -2133,7 +2149,7 @@
                 "sha256:0123cacc1627ae19ddf3c27a5de5bd67ee4586fbdd6440d9748f8abb483d3e86",
                 "sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==2.8.2"
         },
         "python-json-logger": {
@@ -2442,7 +2458,7 @@
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
                 "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.16.0"
         },
         "sniffio": {

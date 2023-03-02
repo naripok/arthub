@@ -8,6 +8,7 @@ torchvision = "*"
 torch = "*"
 diffusers = "*"
 transformers = "*"
+uform = "*"
 
 [dev-packages]
 jupyterlab = "*"
